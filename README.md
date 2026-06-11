@@ -1,6 +1,6 @@
 # Kefka Symbol Sync
 
-A tiny static raid tool for syncing your symbol with your partner using a free Firebase Realtime Database backend and a Picture-in-Picture overlay.
+Tool for statics for Kefka's Forsaken mechanic where you can communicate with your partner what symbol you have.
 
 ## What it does
 
